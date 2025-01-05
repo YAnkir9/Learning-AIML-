@@ -99,10 +99,5 @@ plt.show()
 
 The analysis provided insights into the population distribution across U.S. states and highlighted the importance of using robust statistical techniques to manage outliers and skewed data distributions.
 
-## Future Work
-
-- Extend the analysis to other demographic attributes.
-- Apply machine learning models to predict future population trends.
-- Explore geospatial visualizations to better understand regional patterns.
 
 
